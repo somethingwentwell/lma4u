@@ -82,7 +82,8 @@
     "actions": {
       "openGrok": "실제 Grok 열기",
       "cancelAutoOpen": "자동 열기 취소",
-      "back": "뒤로"
+      "back": "뒤로",
+      "openLma4u": "나도 만들기"
     }
   }
 }

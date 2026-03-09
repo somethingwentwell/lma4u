@@ -82,7 +82,8 @@
     "actions": {
       "openGrok": "Abrir Grok real",
       "cancelAutoOpen": "Cancelar apertura automática",
-      "back": "Volver"
+      "back": "Volver",
+      "openLma4u": "Crea el tuyo"
     }
   }
 }

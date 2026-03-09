@@ -82,7 +82,8 @@
     "actions": {
       "openGrok": "本物のGrokを開く",
       "cancelAutoOpen": "自動オープンをキャンセル",
-      "back": "戻る"
+      "back": "戻る",
+      "openLma4u": "自分のを作る"
     }
   }
 }

@@ -82,7 +82,8 @@
     "actions": {
       "openGrok": "打开真实 Grok",
       "cancelAutoOpen": "取消自动跳转",
-      "back": "返回"
+      "back": "返回",
+      "openLma4u": "创建你的"
     }
   }
 }
