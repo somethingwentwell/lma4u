@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "lma4u — AIに代わりに聞かせて",
+    "description": "Grok AIでの質問方法をアニメーションで見せる共有リンクを作成。登録不要・無料で今すぐ使えます。",
+    "keywords": "AIに代わりに聞く, AIプロンプト共有, Grok AIリンク, AI質問リンク, AIの使い方を教える"
+  },
+  "home": {
+    "eyebrow": "lma4u",
+    "heading": "AIに代わりに聞かせて",
+    "subheading": "質問を入力してトークン化URLを生成し、Grokで正確なクエリを開くアニメーションを共有しましょう。",
+    "create": {
+      "title": "共有リンクを作成",
+      "expand": "展開",
+      "collapse": "折りたたむ",
+      "questionSaved": "保存された質問：",
+      "editQuestion": "質問を編集",
+      "questionLabel": "質問",
+      "questionPlaceholder": "Grokに何を聞きますか？",
+      "generateBtn": "URLを生成",
+      "clearBtn": "クリア",
+      "errorEmpty": "質問を入力してください。",
+      "errorGenerateFirst": "先にリンクを生成してください。"
+    },
+    "animation": {
+      "title": "アニメーションカード",
+      "description": "全画面表示前に共有アニメーションをプレビューします。",
+      "iframeTitle": "lma4u アニメーションプレビュー",
+      "openBtn": "アニメーションを開く"
+    },
+    "output": {
+      "title": "リンク出力",
+      "description": "Base64はURLのテキストを隠しますが、暗号化ではありません。",
+      "shareUrlLabel": "共有URL",
+      "shareUrlPlaceholder": "生成されたリンクがここに表示されます",
+      "shorteningBtn": "短縮中…",
+      "shortenBtn": "URLを短縮",
+      "copiedBtn": "コピー済み",
+      "copyBtn": "URLをコピー",
+      "openBtn": "アニメーションを開く",
+      "collapsedHasGenerated": "リンク出力は折りたたまれています。",
+      "collapsedNotGenerated": "URLを生成すると出力が表示されます。",
+      "errorShortenFailed": "URLの短縮に失敗しました。"
+    }
+  },
+  "ask": {
+    "loading": "アニメーションを読み込み中…",
+    "error": {
+      "eyebrow": "lma4u",
+      "heading": "無効なアニメーションリンク",
+      "backBtn": "ジェネレーターに戻る",
+      "missingToken": "クエリトークンがありません。",
+      "invalidToken": "クエリトークンが無効です。"
+    },
+    "sidebar": {
+      "search": "検索",
+      "chat": "チャット",
+      "voice": "音声",
+      "projects": "プロジェクト",
+      "newProject": "新しいプロジェクト",
+      "history": "履歴",
+      "you": "あなた"
+    },
+    "header": {
+      "domain": "grok.com",
+      "shareBtn": "共有"
+    },
+    "chat": {
+      "greeting": "何でも聞いてください。",
+      "thinking": "考え中…",
+      "ready": "すごい、AIの聞き方をマスターしたね！次は自分でできるよ。言い訳なしで！🎓"
+    },
+    "input": {
+      "placeholder": "何でも聞いて",
+      "autoBtn": "自動"
+    },
+    "status": {
+      "autoCanceled": "自動オープンをキャンセルしました。",
+      "openingIn": "{countdown}秒後に本物のGrokクエリを開きます",
+      "readyToOpen": "本物のGrokクエリを開く準備ができています。",
+      "autoplayDisabled": "自動再生は無効です。"
+    },
+    "actions": {
+      "openGrok": "本物のGrokを開く",
+      "cancelAutoOpen": "自動オープンをキャンセル",
+      "back": "戻る"
+    }
+  }
+}

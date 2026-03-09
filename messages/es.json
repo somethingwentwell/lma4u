@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "lma4u — Deja que le pregunte a la IA por ti",
+    "description": "Crea un enlace compartible que muestra con animación cómo preguntar en Grok AI. Gratis, sin registro, listo en segundos.",
+    "keywords": "preguntarle a la IA por ti, compartir prompt de IA, enlace Grok AI, enlace pregunta IA, enseñar a usar IA"
+  },
+  "home": {
+    "eyebrow": "lma4u",
+    "heading": "Deja que le pregunte a la IA por ti",
+    "subheading": "Escribe una pregunta, genera una URL tokenizada y comparte una animación que abre Grok con la consulta exacta.",
+    "create": {
+      "title": "Crear enlace para compartir",
+      "expand": "Expandir",
+      "collapse": "Contraer",
+      "questionSaved": "Pregunta guardada:",
+      "editQuestion": "Editar pregunta",
+      "questionLabel": "Pregunta",
+      "questionPlaceholder": "¿Qué le preguntarías a Grok?",
+      "generateBtn": "Generar URL",
+      "clearBtn": "Limpiar",
+      "errorEmpty": "Por favor escribe una pregunta.",
+      "errorGenerateFirst": "Primero genera un enlace."
+    },
+    "animation": {
+      "title": "Vista previa de animación",
+      "description": "Previsualiza la animación antes de abrirla en pantalla completa.",
+      "iframeTitle": "Vista previa de animación lma4u",
+      "openBtn": "Abrir animación"
+    },
+    "output": {
+      "title": "Salida del enlace",
+      "description": "Base64 oculta el texto en la URL, pero no es encriptación.",
+      "shareUrlLabel": "URL para compartir",
+      "shareUrlPlaceholder": "El enlace generado aparece aquí",
+      "shorteningBtn": "Acortando…",
+      "shortenBtn": "Acortar URL",
+      "copiedBtn": "Copiado",
+      "copyBtn": "Copiar URL",
+      "openBtn": "Abrir animación",
+      "collapsedHasGenerated": "La salida del enlace está contraída.",
+      "collapsedNotGenerated": "Genera una URL para ver la salida.",
+      "errorShortenFailed": "Error al acortar la URL."
+    }
+  },
+  "ask": {
+    "loading": "Cargando animación…",
+    "error": {
+      "eyebrow": "lma4u",
+      "heading": "Enlace de animación inválido",
+      "backBtn": "Volver al generador",
+      "missingToken": "Falta el token de consulta.",
+      "invalidToken": "Token de consulta inválido."
+    },
+    "sidebar": {
+      "search": "Buscar",
+      "chat": "Chat",
+      "voice": "Voz",
+      "projects": "Proyectos",
+      "newProject": "Nuevo proyecto",
+      "history": "Historial",
+      "you": "Tú"
+    },
+    "header": {
+      "domain": "grok.com",
+      "shareBtn": "Compartir"
+    },
+    "chat": {
+      "greeting": "Pregúntame lo que quieras.",
+      "thinking": "Pensando…",
+      "ready": "¡Mírate! Ya aprendiste cómo preguntarle a la IA. La próxima vez hazlo tú solo, sin excusas. 🎓"
+    },
+    "input": {
+      "placeholder": "Pregunta lo que quieras",
+      "autoBtn": "Auto"
+    },
+    "status": {
+      "autoCanceled": "Apertura automática cancelada.",
+      "openingIn": "Abriendo consulta real en Grok en {countdown}s",
+      "readyToOpen": "Listo para abrir la consulta real en Grok.",
+      "autoplayDisabled": "La reproducción automática está desactivada."
+    },
+    "actions": {
+      "openGrok": "Abrir Grok real",
+      "cancelAutoOpen": "Cancelar apertura automática",
+      "back": "Volver"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "lma4u — Let Me Ask AI For You",
+    "description": "Send anyone a link that shows them exactly how to ask your question on Grok AI. Free shareable AI prompt links with animated demo — no sign-up needed.",
+    "keywords": "let me ask AI for you, share AI prompt, Grok AI link, AI question link, shareable AI query, lmgtfy AI, teach someone to use AI"
+  },
+  "home": {
+    "eyebrow": "lma4u",
+    "heading": "Let Me Ask AI For You",
+    "subheading": "Too lazy to explain how to use AI? Same. Paste their question, send them the link, and watch them figure it out themselves.",
+    "create": {
+      "title": "Create Share Link",
+      "expand": "Expand",
+      "collapse": "Collapse",
+      "questionSaved": "Question saved:",
+      "editQuestion": "Edit question",
+      "questionLabel": "Question",
+      "questionPlaceholder": "What should I ask on Grok?",
+      "generateBtn": "Generate URL",
+      "clearBtn": "Clear",
+      "errorEmpty": "Please type a question.",
+      "errorGenerateFirst": "Generate a link first."
+    },
+    "animation": {
+      "title": "Animation Card",
+      "description": "Preview of the share animation before opening full screen.",
+      "iframeTitle": "lma4u animation preview",
+      "openBtn": "Open Animation"
+    },
+    "output": {
+      "title": "Link Output",
+      "description": "Base64 hides the text in the URL but it is not encryption.",
+      "shareUrlLabel": "Share URL",
+      "shareUrlPlaceholder": "Generated link appears here",
+      "shorteningBtn": "Shortening...",
+      "shortenBtn": "Shorten URL",
+      "copiedBtn": "Copied",
+      "copyBtn": "Copy URL",
+      "openBtn": "Open Animation",
+      "collapsedHasGenerated": "Link output is collapsed.",
+      "collapsedNotGenerated": "Generate a URL to show output.",
+      "errorShortenFailed": "Failed to shorten URL."
+    }
+  },
+  "ask": {
+    "loading": "Loading animation...",
+    "error": {
+      "eyebrow": "lma4u",
+      "heading": "Invalid Animation Link",
+      "backBtn": "Back to generator",
+      "missingToken": "Missing query token.",
+      "invalidToken": "Invalid query token."
+    },
+    "sidebar": {
+      "search": "Search",
+      "chat": "Chat",
+      "voice": "Voice",
+      "projects": "Projects",
+      "newProject": "New Project",
+      "history": "History",
+      "you": "You"
+    },
+    "header": {
+      "domain": "grok.com",
+      "shareBtn": "Share"
+    },
+    "chat": {
+      "greeting": "Ask me anything.",
+      "thinking": "Thinking...",
+      "ready": "Look at you — you just learned how to ask AI! No excuses next time. 🎓"
+    },
+    "input": {
+      "placeholder": "Ask anything",
+      "autoBtn": "Auto"
+    },
+    "status": {
+      "autoCanceled": "Auto-open canceled.",
+      "openingIn": "Opening real Grok query in {countdown}s",
+      "readyToOpen": "Ready to open the real Grok query.",
+      "autoplayDisabled": "Autoplay is disabled."
+    },
+    "actions": {
+      "openGrok": "Open real Grok",
+      "cancelAutoOpen": "Cancel auto-open",
+      "back": "Back"
+    }
+  }
+}

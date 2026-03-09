@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "lma4u — 讓我替你問 AI",
+    "description": "產生可分享連結，用動畫示範如何在 Grok AI 上提問。免註冊、免費、一鍵傳送。",
+    "keywords": "讓我替你問AI, 分享AI提示詞, Grok AI連結, AI問題連結, 教別人用AI"
+  },
+  "home": {
+    "eyebrow": "lma4u",
+    "heading": "讓我替你問 AI",
+    "subheading": "懶得解釋怎麼用 AI？我也是。把他們的問題貼進來，丟個連結，讓他們自己悟。",
+    "create": {
+      "title": "建立分享連結",
+      "expand": "展開",
+      "collapse": "收合",
+      "questionSaved": "已儲存的問題：",
+      "editQuestion": "編輯問題",
+      "questionLabel": "問題",
+      "questionPlaceholder": "你想在 Grok 上問什麼？",
+      "generateBtn": "產生連結",
+      "clearBtn": "清除",
+      "errorEmpty": "請輸入問題。",
+      "errorGenerateFirst": "請先產生連結。"
+    },
+    "animation": {
+      "title": "動畫預覽",
+      "description": "在全螢幕開啟前預覽分享動畫。",
+      "iframeTitle": "lma4u 動畫預覽",
+      "openBtn": "開啟動畫"
+    },
+    "output": {
+      "title": "連結輸出",
+      "description": "Base64 只是編碼，不是加密，URL 內容可被解讀。",
+      "shareUrlLabel": "分享連結",
+      "shareUrlPlaceholder": "產生的連結顯示於此",
+      "shorteningBtn": "縮短中…",
+      "shortenBtn": "縮短連結",
+      "copiedBtn": "已複製",
+      "copyBtn": "複製連結",
+      "openBtn": "開啟動畫",
+      "collapsedHasGenerated": "連結輸出已收合。",
+      "collapsedNotGenerated": "產生連結後顯示輸出。",
+      "errorShortenFailed": "縮短連結失敗。"
+    }
+  },
+  "ask": {
+    "loading": "正在載入動畫…",
+    "error": {
+      "eyebrow": "lma4u",
+      "heading": "無效的動畫連結",
+      "backBtn": "返回產生器",
+      "missingToken": "缺少查詢憑證。",
+      "invalidToken": "無效的查詢憑證。"
+    },
+    "sidebar": {
+      "search": "搜尋",
+      "chat": "對話",
+      "voice": "語音",
+      "projects": "專案",
+      "newProject": "新增專案",
+      "history": "歷史記錄",
+      "you": "你"
+    },
+    "header": {
+      "domain": "grok.com",
+      "shareBtn": "分享"
+    },
+    "chat": {
+      "greeting": "有什麼想問的？",
+      "thinking": "思考中…",
+      "ready": "你看你，已經學會怎麼問 AI 了！下次自己來，別找藉口喔。🎓"
+    },
+    "input": {
+      "placeholder": "隨便問點什麼",
+      "autoBtn": "自動"
+    },
+    "status": {
+      "autoCanceled": "已取消自動跳轉。",
+      "openingIn": "{countdown} 秒後開啟真實 Grok 查詢",
+      "readyToOpen": "已準備好開啟真實的 Grok 查詢。",
+      "autoplayDisabled": "自動播放已關閉。"
+    },
+    "actions": {
+      "openGrok": "開啟真實 Grok",
+      "cancelAutoOpen": "取消自動跳轉",
+      "back": "返回"
+    }
+  }
+}

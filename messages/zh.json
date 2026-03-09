@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "lma4u — 让我替你问 AI",
+    "description": "生成可分享的链接，用动画演示如何在 Grok AI 上提问。免注册，免费使用，一键发送。",
+    "keywords": "让我替你问AI, 分享AI提示词, Grok AI链接, AI问题链接, 教别人用AI"
+  },
+  "home": {
+    "eyebrow": "lma4u",
+    "heading": "让我替你问 AI",
+    "subheading": "懒得解释怎么用 AI？我也是。把他们的问题粘进来，发个链接，让他们自己悟。",
+    "create": {
+      "title": "创建分享链接",
+      "expand": "展开",
+      "collapse": "收起",
+      "questionSaved": "已保存的问题：",
+      "editQuestion": "编辑问题",
+      "questionLabel": "问题",
+      "questionPlaceholder": "你想在 Grok 上问什么？",
+      "generateBtn": "生成链接",
+      "clearBtn": "清空",
+      "errorEmpty": "请输入问题。",
+      "errorGenerateFirst": "请先生成链接。"
+    },
+    "animation": {
+      "title": "动画预览",
+      "description": "在全屏打开前预览分享动画。",
+      "iframeTitle": "lma4u 动画预览",
+      "openBtn": "打开动画"
+    },
+    "output": {
+      "title": "链接输出",
+      "description": "Base64 只是编码，不是加密，URL 内容可被解读。",
+      "shareUrlLabel": "分享链接",
+      "shareUrlPlaceholder": "生成的链接显示在此处",
+      "shorteningBtn": "缩短中…",
+      "shortenBtn": "缩短链接",
+      "copiedBtn": "已复制",
+      "copyBtn": "复制链接",
+      "openBtn": "打开动画",
+      "collapsedHasGenerated": "链接输出已收起。",
+      "collapsedNotGenerated": "生成链接后显示输出。",
+      "errorShortenFailed": "缩短链接失败。"
+    }
+  },
+  "ask": {
+    "loading": "正在加载动画…",
+    "error": {
+      "eyebrow": "lma4u",
+      "heading": "无效的动画链接",
+      "backBtn": "返回生成器",
+      "missingToken": "缺少查询令牌。",
+      "invalidToken": "无效的查询令牌。"
+    },
+    "sidebar": {
+      "search": "搜索",
+      "chat": "对话",
+      "voice": "语音",
+      "projects": "项目",
+      "newProject": "新建项目",
+      "history": "历史记录",
+      "you": "你"
+    },
+    "header": {
+      "domain": "grok.com",
+      "shareBtn": "分享"
+    },
+    "chat": {
+      "greeting": "有什么想问的？",
+      "thinking": "思考中…",
+      "ready": "瞧瞧你，已经学会怎么问 AI 了！下次自己来，别找借口哦。🎓"
+    },
+    "input": {
+      "placeholder": "随便问点什么",
+      "autoBtn": "自动"
+    },
+    "status": {
+      "autoCanceled": "已取消自动跳转。",
+      "openingIn": "{countdown} 秒后打开真实 Grok 查询",
+      "readyToOpen": "已准备好打开真实的 Grok 查询。",
+      "autoplayDisabled": "自动播放已关闭。"
+    },
+    "actions": {
+      "openGrok": "打开真实 Grok",
+      "cancelAutoOpen": "取消自动跳转",
+      "back": "返回"
+    }
+  }
+}
